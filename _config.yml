@@ -1,6 +1,5 @@
-baseurl: /gitblog
-
-url: https://dmcallis1.github.io
+baseurl: ""
+url: https://duncangit.akamaized.net
 
 github:
   repo: https://github.com/dmcallis1
